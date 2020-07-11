@@ -2,12 +2,12 @@
 
 I'm Jane Seah.
 
-- 🔭 I’m currently working on an analytics and distribution platform for investment research.
-- 🌱 I’m currently learning Scala (*•̀ᴗ•́*)و ̑̑
+- 🔭 I’m currently working on an analytics and distribution platform for investment research. 📊📈📉
+- 🌱 I’m currently learning Scala 👩🏻‍💻
 - 👯 I’m looking to collaborate on using AI to narrow social inequalities. 🌏
-- 💬 Ask me about my data mining research on mental health.
+- 💬 Ask me about my data mining research on mental health. (*•̀ᴗ•́*)و ̑̑
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can play the 🎹 piano, 🎻 viola, and 🎸 guitar!
+- ⚡ Fun fact: I can play the piano, viola, and guitar!  🎹🎻🎸
 
 [My Webpage](https://www.janeseah.com) • [Email](mailto:seah.jane@gmail.com) • [LinkedIn](https://www.linkedin.com/in/janeseah)
 
