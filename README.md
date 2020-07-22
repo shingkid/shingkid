@@ -3,11 +3,11 @@
 I'm Jane Seah.
 
 - 🔭 I’m currently working on a smart fire evacuation and rescue system 🚨🚒🔥
-- 🌱 I’m currently learning Scala and Rails 👩🏻‍💻💎
+- 🌱 I’m currently learning Scala 👩🏻‍💻 and Rails 💎
 - 👯 I’m looking to collaborate on using AI to narrow social inequalities 🌏
 - 💬 Ask me about my data mining research on mental health (*•̀ᴗ•́*)و ̑̑
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can play a few instruments and did enough ballet to go on pointe  🎹🎻🎸🩰
+- ⚡ Fun fact: I can play a few instruments 🎹🎻🎸 and did enough ballet to go on pointe  🩰
 
 [My Webpage](https://www.janeseah.com) • [Email](mailto:seah.jane@gmail.com) • [LinkedIn](https://www.linkedin.com/in/janeseah)
 
