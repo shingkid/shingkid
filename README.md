@@ -11,7 +11,7 @@ I'm Jane Seah.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[My Webpage](https://www.janeseah.com) • [Email](mailto:seah.jane@gmail.com) • [LinkedIn](https://www.linkedin.com/in/janeseah)
+[My Webpage](https://www.janeseah.com) • [Email](mailto:seah.jane@gmail.com) • [LinkedIn](https://www.linkedin.com/in/janeseah) • [Twitter](https://twitter.com/shingkid)
 
 <!--
 - 🔭 I’m currently working on an analytics and distribution platform for investment research. 📊📈📉
