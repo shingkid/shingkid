@@ -9,7 +9,7 @@ I'm Jane Seah.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can play a few instruments 🎹🎻🎸 and did enough ballet to go on pointe  🩰
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&hide=prs,issues&show_icons=true)
 
 [My Webpage](https://www.janeseah.com) • [Email](mailto:seah.jane@gmail.com) • [LinkedIn](https://www.linkedin.com/in/janeseah)
 
