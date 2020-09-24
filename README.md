@@ -8,19 +8,24 @@
 
 <strong>💬 Ask me about:</strong>
 
-[![Woebegone](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/anuraghazra/github-readme-stats)
+[![IS421](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=base-location-optimization)](https://github.com/anuraghazra/github-readme-stats)
+[![IS470](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/anuraghazra/github-readme-stats)
 
-<strong>✍️ I write at: [shingkid.github.io](https://shingkid.github.io)</strong>
+<strong>✍️ I write at: </strong>[shingkid.github.io](https://shingkid.github.io)
 
 <strong>📫 How to reach me:</strong>
 - [LinkedIn](https://www.linkedin.com/in/janeseah)
 - [Twitter @shingkid](https://twitter.com/shingkid)
 - [Email](mailto:seah.jane@gmail.com)
 
-<strong>Statistics</strong>
-
+<strong>📊 Statistics:</strong>
+<br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&theme=gradient&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shingkid&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<strong>⚡ Fun facts:</strong>
+- 🧶 I crochet amigurumi.
+- 🎹 I play the piano, viola, and guitar.
 
 <!--
 **shingkid/shingkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
