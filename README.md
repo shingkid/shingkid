@@ -1,22 +1,28 @@
-### Hi there 👋
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-I'm Jane Seah.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shingkid.shingkid)
 
+<strong>🔭 I’m currently working on:</strong>
 
-- 🔭 I’m currently working on analytics and distribution for an investment research portal. 📊📈📉
-- 🌱 I’m currently learning Rails 💎, Kafka 🧰, and Scala 👩🏻‍💻 
-- 👯 I’m looking to collaborate on using AI to narrow social inequalities 🌏
-- 💬 Ask me about my data mining research on mental health (*•̀ᴗ•́*)و ̑̑
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can play a few instruments 🎹🎻🎸 and did enough ballet to go on pointe  🩰
+[![Dr Watson](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=DrWatson-ToTheRescue_SCDFXIBM)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<strong>💬 Ask me about:</strong>
 
-[My Webpage](https://www.janeseah.com) • [Email](mailto:seah.jane@gmail.com) • [LinkedIn](https://www.linkedin.com/in/janeseah) • [Twitter](https://twitter.com/shingkid)
+[![Woebegone](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/anuraghazra/github-readme-stats)
+
+<strong>✍️ I write at: [shingkid.github.io](https://shingkid.github.io)</strong>
+
+<strong>📫 How to reach me:</strong>
+- [LinkedIn](https://www.linkedin.com/in/janeseah)
+- [Twitter @shingkid](https://twitter.com/shingkid)
+- [Email](mailto:seah.jane@gmail.com)
+
+<strong>Statistics</strong>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&theme=gradient&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shingkid&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-
-- 🔭 I’m currently working on a smart fire evacuation and rescue system 🚨🚒🔥
 **shingkid/shingkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
