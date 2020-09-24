@@ -27,6 +27,8 @@
 - 🧶 I crochet amigurumi.
 - 🎹 I play the piano, viola, and guitar.
 
+<!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
