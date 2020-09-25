@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Basic Waka Readme
 
 on:
   workflow_dispatch:
