@@ -3,18 +3,19 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shingkid.shingkid)
 
 
-<strong>🔭 I’m currently working on:</strong>
+<strong>🔭 I’m currently working on</strong>
 
 [![Dr Watson](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=DrWatson-ToTheRescue_SCDFXIBM)](https://github.com/anuraghazra/github-readme-stats)
 
-<strong>💬 Ask me about:</strong>
+<strong>💬 Ask me about</strong>
 
 [![IS421](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=base-location-optimization)](https://github.com/anuraghazra/github-readme-stats)
 [![IS470](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/anuraghazra/github-readme-stats)
 
-<strong>✍️ I write at: </strong>[shingkid.github.io](https://shingkid.github.io)
+<strong>✍️ I write at </strong>[shingkid.github.io](https://shingkid.github.io)
 
-<strong>🧰 Languages and Tools:</strong>
+
+<strong>🧰 Languages and Tools</strong>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -27,22 +28,23 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<strong>✍️ I write at: </strong>[shingkid.github.io](https://shingkid.github.io)
-
-
-<strong>📊 Statistics:</strong>
+<strong>📈 My GitHub Stats</strong>
 <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&theme=gradient&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shingkid&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
-<strong>⚡ Fun facts:</strong>
-- 🧶 I crochet amigurumi.
-- 🎹 I play the piano, viola, and guitar.
-
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
+
+📊 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+📌 **My Todoist Stats**
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 <hr>
 <a href="https://twitter.com/shingkid">
