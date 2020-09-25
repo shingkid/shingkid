@@ -35,13 +35,13 @@
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 
-📊 **This Week I Spent My Time On**
+<!--📊 **This Week I Spent My Time On**-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
-📌 **My Todoist Stats**
+<!--📌 **My Todoist Stats**-->
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
