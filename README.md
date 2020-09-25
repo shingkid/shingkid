@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shingkid.shingkid)
 
+
 <strong>🔭 I’m currently working on:</strong>
 
 [![Dr Watson](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=DrWatson-ToTheRescue_SCDFXIBM)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,10 +14,21 @@
 
 <strong>✍️ I write at: </strong>[shingkid.github.io](https://shingkid.github.io)
 
-<strong>📫 How to reach me:</strong>
-- [LinkedIn](https://www.linkedin.com/in/janeseah)
-- [Twitter @shingkid](https://twitter.com/shingkid)
-- [Email](mailto:seah.jane@gmail.com)
+<strong>🧰 Languages and Tools:</strong>
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+<strong>✍️ I write at: </strong>[shingkid.github.io](https://shingkid.github.io)
+
 
 <strong>📊 Statistics:</strong>
 <br>
@@ -32,6 +44,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<hr>
+<a href="https://twitter.com/shingkid">
+  <img align="left" alt="Jane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/janeseah">
+  <img align="left" alt="Jane's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:seah.jane@gmail.com">
+  <img align="left" alt="Jane's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <!--
 **shingkid/shingkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
