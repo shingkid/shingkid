@@ -5,12 +5,12 @@
 
 <strong>🔭 I’m currently working on</strong>
 
-[![Dr Watson](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=DrWatson-ToTheRescue_SCDFXIBM)](https://github.com/anuraghazra/github-readme-stats)
+[![Dr Watson](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=DrWatson-ToTheRescue_SCDFXIBM)](https://github.com/shingkid/DrWatson-ToTheRescue_SCDFXIBM)
 
 <strong>💬 Ask me about</strong>
 
-[![IS421](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=base-location-optimization)](https://github.com/anuraghazra/github-readme-stats)
-[![IS470](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/anuraghazra/github-readme-stats)
+[![IS421](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=base-location-optimization)](https://github.com/shingkid/base-location-optimization)
+[![IS470](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/shingkid/data-mining-suicide-sg)
 
 <strong>✍️ I write at </strong>[shingkid.github.io](https://shingkid.github.io)
 
