@@ -12,9 +12,6 @@
 [![IS421](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=base-location-optimization)](https://github.com/shingkid/base-location-optimization)
 [![IS470](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/shingkid/data-mining-suicide-sg)
 
-<strong>✍️ I write at </strong>[shingkid.github.io](https://shingkid.github.io)
-
-
 <strong>🧰 Languages and Tools</strong>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
