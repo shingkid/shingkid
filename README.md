@@ -52,11 +52,11 @@ JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░
 
 <strong>🎧 I'm listening to</strong>
 
-<img height="100" src="https://www.gannett-cdn.com/presto/2020/08/19/USAT/7b9963c8-4c02-4559-a172-f018dd2bb419-the_killers_album_cover.jpg?width=660&height=660&fit=crop&format=pjpg&auto=webp">
-<img height="100" src="https://www.52-insights.com/wp-content/uploads/2017/03/a3821495356_10.jpg">
-<img height="100" src="https://upload.wikimedia.org/wikipedia/en/1/10/WhatYouKnowTDCC.jpg">
-<img height="100" src="https://upload.wikimedia.org/wikipedia/en/e/e7/Billie_Eilish_-_My_Future.png">
-<img height="100" src="https://upload.wikimedia.org/wikipedia/en/8/8f/Hunting_High_and_Low.jpg">
+<code><img height="100" src="https://www.gannett-cdn.com/presto/2020/08/19/USAT/7b9963c8-4c02-4559-a172-f018dd2bb419-the_killers_album_cover.jpg?width=660&height=660&fit=crop&format=pjpg&auto=webp"></code>
+<code><img height="100" src="https://www.52-insights.com/wp-content/uploads/2017/03/a3821495356_10.jpg"></code>
+<code><img height="100" src="https://upload.wikimedia.org/wikipedia/en/1/10/WhatYouKnowTDCC.jpg"></code>
+<code><img height="100" src="https://upload.wikimedia.org/wikipedia/en/e/e7/Billie_Eilish_-_My_Future.png"></code>
+<code><img height="100" src="https://upload.wikimedia.org/wikipedia/en/8/8f/Hunting_High_and_Low.jpg"></code>
 
 <hr>
 <a href="https://twitter.com/shingkid">
