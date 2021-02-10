@@ -36,8 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   35 mins         ████████████████████████░   96.02 % 
-Text    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
