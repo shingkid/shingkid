@@ -36,7 +36,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Scala           36 mins         █████████████████████▓░░░   87.14 % 
+Git Config      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+SuperCollider   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 <!--END_SECTION:waka-->
 
