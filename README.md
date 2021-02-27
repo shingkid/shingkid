@@ -36,10 +36,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Scala           1 hr 5 mins     ██████████████████▓░░░░░░   74.70 % 
-Markdown        16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Git Config      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-SuperCollider   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Scala           1 hr 5 mins     █████████████████▒░░░░░░░   69.88 % 
+Markdown        22 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Git Config      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+SuperCollider   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 <!--END_SECTION:waka-->
 
