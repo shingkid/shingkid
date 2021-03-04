@@ -5,12 +5,12 @@
 
 <strong>🔭 I’m currently working on</strong>
 
-[![Dr Watson](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&theme=nightowl&repo=DrWatson-ToTheRescue_SCDFXIBM)](https://github.com/shingkid/DrWatson-ToTheRescue_SCDFXIBM)
+[![Dr Watson](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=DrWatson-ToTheRescue_SCDFXIBM)](https://github.com/shingkid/DrWatson-ToTheRescue_SCDFXIBM)
 
 <strong>💬 Ask me about</strong>
 
-[![IS421](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&theme=nightowl&repo=base-location-optimization)](https://github.com/shingkid/base-location-optimization)
-[![IS470](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&theme=nightowl&repo=data-mining-suicide-sg)](https://github.com/shingkid/data-mining-suicide-sg)
+[![IS421](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=base-location-optimization)](https://github.com/shingkid/base-location-optimization)
+[![IS470](https://github-readme-stats.vercel.app/api/pin/?username=shingkid&repo=data-mining-suicide-sg)](https://github.com/shingkid/data-mining-suicide-sg)
 
 <strong>🧰 Languages and Tools</strong>
 
@@ -27,8 +27,8 @@
 
 <strong>📈 My GitHub Stats</strong>
 <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shingkid&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shingkid&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shingkid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 
