@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Markdown   10 mins         ███████████████████████▓░   94.95 % 
 ```
 <!--END_SECTION:waka-->
 
