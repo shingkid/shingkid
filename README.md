@@ -36,8 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 18 mins    █████████████████████▒░░░   85.07 % 
-JSON       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
