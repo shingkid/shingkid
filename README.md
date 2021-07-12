@@ -44,10 +44,10 @@ No Activity tracked this Week
 <!--📌 **My Todoist Stats**-->
 
 <!-- TODO-IST:START -->
-🏆  7,607 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 598 tasks so far           
+🏆  7,620 Karma Points           
+🌸  Completed 1 tasks today           
+🗓  Completed 1 tasks this week           
+✅  Completed 599 tasks so far           
 ⏳  Longest streak is 6 days
 <!-- TODO-IST:END -->
 
