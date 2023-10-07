@@ -1,20 +1,20 @@
 <picture>
-  <img src="/metrics.terminal.svg" alt="Metrics">
+  <img src="/terminal.svg" alt="Metrics">
 </picture>
 <picture>
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="ISOCalendar">
+  <img src="/isocalendar.svg" alt="ISOCalendar">
 </picture>
 <picture>
-  <img src="/metrics.plugin.languages.svg" alt="Languages">
+  <img src="/languages.svg" alt="Languages">
 </picture>
 <picture>
-  <img src="/metrics.plugin.music.most.svg" alt="Music">
+  <img src="/music.svg" alt="Music">
 </picture>
 <picture>
-  <img src="/metrics.plugin.steam.svg" alt="Games">
+  <img src="/steam.svg" alt="Games">
 </picture>
 <picture>
-  <img src="/metrics.plugin.16personalities.svg" alt="MBTI">
+  <img src="/mbti.svg" alt="MBTI">
 </picture>
 
 <!--
