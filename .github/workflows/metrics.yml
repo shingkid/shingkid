@@ -13,7 +13,8 @@ jobs:
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.terminal.svg
+          template: terminal
+          filename: terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
@@ -21,7 +22,7 @@ jobs:
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -29,7 +30,7 @@ jobs:
       - name: Recently used
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.svg
+          filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -41,6 +42,7 @@ jobs:
       - name: Spotify - Top artists
         uses: lowlighter/metrics@latest
         with:
+          filename: music.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
@@ -52,7 +54,7 @@ jobs:
       - name: Most played games
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.steam.svg
+          filename: steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
@@ -63,7 +65,7 @@ jobs:
       - name: MBTI Personality profile
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.16personalities.svg
+          filename: mbti.svg
           token: NOT_NEEDED
           base: ""
           plugin_16personalities: yes
