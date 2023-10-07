@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional Run workflow when pushing on master/main
@@ -57,3 +57,13 @@ jobs:
           plugin_steam_user: ${{ secrets.STEAM_ID }}
           plugin_steam_sections: most-played
           plugin_steam_achievements_limit: 0
+      - name: MBTI Personality profile
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.16personalities.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
