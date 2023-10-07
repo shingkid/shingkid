@@ -10,10 +10,13 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Core
+      - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
           config_timezone: Asia/Singapore
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
