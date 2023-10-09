@@ -1,8 +1,4 @@
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-<!--
-<picture>
   <img src="/terminal.svg" alt="Metrics">
 </picture>
 <picture>
@@ -20,7 +16,6 @@
 <picture>
   <img src="/mbti.svg" alt="MBTI">
 </picture>
--->
 <!--
 **shingkid/shingkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
