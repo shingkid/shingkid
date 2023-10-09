@@ -1,7 +1,8 @@
+### Hi there 👋
 <picture>
   <img src="/terminal.svg" alt="Metrics">
 </picture>
-<picture>
+<!-- <picture>
   <img src="/isocalendar.svg" alt="ISOCalendar">
 </picture>
 <picture>
@@ -15,7 +16,7 @@
 </picture>
 <picture>
   <img src="/mbti.svg" alt="MBTI">
-</picture>
+</picture> -->
 <!--
 **shingkid/shingkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
